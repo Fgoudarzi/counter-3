@@ -1,0 +1,39 @@
+button {
+  padding: 1%;
+  margin: 0.5%;
+  letter-spacing: 0.2rem;
+  width: 10rem;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+div {
+  padding: 1%;
+}
+
+span {
+  margin: 2%;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+.App {
+  box-sizing: border-box;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+.container {
+  position: absolute;
+  background-color: aqua;
+  top: 5%;
+  left: 5%;
+  bottom: 5%;
+  right: 5%;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
